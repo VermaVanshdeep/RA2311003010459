@@ -1,0 +1,13 @@
+{
+  "name": "logging-middleware",
+  "version": "1.0.0",
+  "description": "Reusable logging middleware for the NotifyHub frontend — posts structured logs to the evaluation service.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": ["logging", "middleware", "frontend", "notifyhub"],
+  "author": "",
+  "license": "MIT"
+}
